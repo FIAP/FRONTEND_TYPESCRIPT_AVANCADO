@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "ES6", // ou uma versão mais recente como ES2015, ES2017, etc.
+      "module": "commonjs",
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "strict": true,
+      "esModuleInterop": true
+    }
+  }
+  
